@@ -123,7 +123,7 @@ int main() {
 	printf("Super Poder: %.2f \n\n", SuperPoder2);
 
 	//Mostrando resultado das comparações
-	printf("Comparacao geral das Cartas: \n");
+	printf("Comparacao geral de Cartas: \n");
 	printf("Populacao: Carta 1 venceu (%u) \n", Populacao>Populacao2);
 	printf("Area: Carta 1 venceu (%d) \n", Area > Area2);
 	printf("PIB: Carta 1 venceu (%d) \n", PIB > PIB2);
